@@ -1,0 +1,129 @@
+body{
+    background-color:beige;
+    margin: 0;
+}
+
+
+#main-header h1{
+    text-align: center;
+    font-family: Arial;
+    font-size: 50px;
+    padding: 20px;
+    margin:auto;
+    color:white;
+    background-color: #000b3f;
+}
+
+#nav_bar{
+    display: flex;
+}
+#nav_bar button{
+    background-color: #001370;
+    border:none;
+    color: white;
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+
+    padding: 5px;
+    flex:auto;
+}
+
+#nav_bar button:hover{
+    background-color:#000f5c;
+    cursor:pointer;
+    
+}
+
+#title {
+    text-align: center;
+    font-family: Arial;
+    font-size: 40px;
+    padding: 20px;
+    padding-top: 40px;
+    margin:auto;
+    color:black;
+}
+
+#main-box {
+    float: left;
+    width: 80%;
+}
+
+#side-bar {
+    float: right;
+    width: 20%;
+
+    background-color: white;
+}
+
+.year{
+    background-color:yellow;
+    font-size: 30px;
+}
+
+.session_heading{
+    background-color: orange;
+}
+
+
+.session_content{
+    background-color:white;
+    border: 1px black solid;
+
+    
+}
+
+.info-box {
+    border:2px solid black;
+    padding: 5px;
+    margin: 10px;
+
+}
+
+.button-box{
+    display: flex;
+    flex-flow:row wrap;
+    justify-content: space-around;
+    
+}
+
+.courses {
+    border-color: black;
+    border-width: 2px;
+    
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+
+    padding: 20px;
+}
+
+.BaseButtonColor {
+    background-color: white;
+    color: black;
+}
+
+.selected {
+    background-color: darkslateblue;
+    color: white;
+    font-weight: bold;
+}
+
+.prereq {
+    background-color: green;
+    color: black;
+}
+
+.coreq {
+    background-color: yellow;
+    color: black;
+}
+
+.postreq {
+    background-color: red;
+    color: black;
+}
+
+
+

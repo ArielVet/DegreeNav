@@ -1,0 +1,79 @@
+[TITLE] Computer Engineering Schedule
+
+[COMP]
+WRDS 150B
+Sustainability
+
+[YEAR] 1
+
+[TERM]
+APSC 100
+APSC 160
+MATH 100
+CHEM 154
+PHYS 157
+
+[TERM] 
+APSC 101
+MATH 101
+MATH 152
+PHYS 158
+PHYS 159
+PHYS 170
+
+[EXTRA]
+
+[YEAR] 2
+
+[TERM]
+CPEN 211
+CPEN 221
+CPEN 281
+MATH 253
+MATH 220
+
+[TERM]
+CPSC 221
+ELEC 201
+CPEN 212
+CPEN 291
+MATH 256
+
+[YEAR] 3
+
+[TERM]
+CPEN 331
+CPSC 320
+
+[TERM]
+CPEN 391
+
+[EXTRA]
+[TEXT] One of
+STAT 251
+STAT 302
+MATH 302
+MATH 318
+[TEXT] 16 Credits of Electives
+[TEXT] 6 Credits of Complementary Studies
+
+[YEAR] 4
+
+[TERM]
+CPEN 491
+
+[TERM] 
+CPEN 491
+
+[EXTRA]
+
+[TEXT] 20 Credits of Electives
+[TEXT] 3 Credits of Science Elective
+[TEXT] TEMP:
+APSC 450
+CPEN 481
+
+
+
+
+

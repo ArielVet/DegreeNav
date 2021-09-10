@@ -1,0 +1,70 @@
+body{
+    background-color:beige;
+    margin: 0;
+}
+
+#main-header h1{
+    text-align: center;
+    font-family: Arial;
+    font-size: 50px;
+    padding: 20px;
+    margin:auto;
+    color:white;
+    background-color: #000b3f;
+}
+
+#nav_bar{
+    display: flex;
+}
+#nav_bar button{
+    background-color: #001370;
+    border:none;
+    color: white;
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+
+    padding: 5px;
+    flex:auto;
+}
+
+#nav_bar button:hover{
+    background-color:#000f5c;
+    cursor:pointer;
+    
+}
+
+.container{
+    width: 75%;
+    margin:auto;
+    margin-top: 100px;
+    /*border:5px red solid;*/
+}
+
+table{
+    width: 100%;
+}
+
+#year_heading{
+    width:15%;
+    background-color: cyan;
+}
+
+#term_heading{
+    width:85%;
+    background-color: purple;
+}
+
+.year{
+    background-color:yellow;
+}
+
+.session_heading{
+    background-color: orange;
+}
+
+.session_content{
+    background-color:white;
+    border: 1px black solid
+}
+

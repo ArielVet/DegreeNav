@@ -1,0 +1,86 @@
+[TITLE] Computer Engineering Schedule
+
+[COMP]
+SUS 420
+CPEN 666
+
+[ELECTIVES]
+CPEN 456
+CPEN 123
+CPEN 216
+
+[YEAR] 1
+
+[TERM] 1
+APSC 100
+APSC 160
+MATH 100
+CHEM 154
+PHYS 157
+
+[TERM] 2
+APSC 101
+MATH 101
+MATH 152
+PHYS 158
+PHYS 159
+PHYS 170
+
+[EXTRA]
+WRDS 150B
+
+[YEAR] 2
+
+[TERM] 1
+CPEN 211
+CPEN 221
+CPEN 281
+MATH 253
+MATH 220
+
+[TERM] 2
+CPSC 221
+ELEC 201
+CPEN 212
+CPEN 291
+MATH 256
+
+[EXTRA]
+
+[YEAR] 3
+
+[TERM] 1
+CPEN 331
+CPSC 320
+
+[TERM] 2
+CPEN 391
+
+[EXTRA]
+[TEXT] One of
+STAT 251
+STAT 302
+MATH 302
+MATH 318
+[TEXT] 16 Credits of Electives
+[TEXT] 6 Credits of Complementary Studies
+
+[YEAR] 4
+
+[TERM] 1
+CPEN 491
+
+[TERM] 2
+CPEN 491
+
+[EXTRA]
+[TEXT] 20 Credits of Electives
+[TEXT] 3 Credits of Science Elective
+[TEXT] These can be Chosen Whenever
+APSC 450
+CPEN 481
+
+
+
+
+
